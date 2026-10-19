@@ -122,6 +122,7 @@ MCP is an open protocol that standardizes how AI applications connect to externa
 
 ### Productivity and Workflow
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with foreground owner approval for signing. ![GitHub Repo stars](https://img.shields.io/github/stars/nuanu-ai/agent-payment-node?style=flat)
 - [MCP Atlassian](https://github.com/sooperset/mcp-atlassian) - MCP server for Atlassian tools (Confluence and Jira). Query issues, manage projects, and search documentation. ![GitHub Repo stars](https://img.shields.io/github/stars/sooperset/mcp-atlassian?style=flat)
 - [Notion MCP Server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP server for reading, creating, and managing Notion pages and databases. ![GitHub Repo stars](https://img.shields.io/github/stars/makenotion/notion-mcp-server?style=flat)
 - [Spec Workflow MCP](https://github.com/Pimzino/spec-workflow-mcp) - Structured spec-driven development workflow tools with a real-time web dashboard and VSCode extension. ![GitHub Repo stars](https://img.shields.io/github/stars/Pimzino/spec-workflow-mcp?style=flat)
